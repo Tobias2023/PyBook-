@@ -3,7 +3,7 @@
 # https://www.hackerrank.com/t_cscott2023
 # https://edabit.com/challenge/uPtuNNTuASzPZMQrW
 
-# Challenge: Create a function that returns last item in a list. 
+# Challenge: Create a function that returns the last item in a list. 
 
 def get_last_item(lst):
 	result = lst[-1]
